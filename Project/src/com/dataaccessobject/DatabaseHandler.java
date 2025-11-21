@@ -7,6 +7,7 @@ import com.model.User;
 import com.model.CartItem;
 import com.model.Order;
 
+
 public class DatabaseHandler {
 
     // Connection setup
